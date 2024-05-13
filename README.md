@@ -13,10 +13,4 @@
             </ul>
         </nav>
     </header>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Dave Weirr</p>
-    </footer>
-</body>
-</html>
+
