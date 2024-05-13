@@ -14,18 +14,6 @@
         </nav>
     </header>
     <main>
-        <section>
-            <h2>About Me</h2>
-            <p>Hello, I'm Dave Weirr. This is my personal website.</p>
-        </section>
-        <section>
-            <h2>Recent Updates</h2>
-            <p>Stay tuned for more updates!</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Dave Weirr</p>
-    </footer>
 </body>
 </html>
 
