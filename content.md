@@ -25,4 +25,4 @@
 </body>
 </html>
 
-<img src="Art Piece Small 2.jpeg" alt="">
+<img src="Art Piece Small 2.jpeg" alt="Description of Image">
