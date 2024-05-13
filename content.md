@@ -24,3 +24,5 @@
     </footer>
 </body>
 </html>
+
+<img src="path/to/your/image.jpg" alt="Description of the image">
