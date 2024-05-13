@@ -9,7 +9,7 @@
         <h1>Welcome to my Art Page</h1>
         <nav>
             <ul>
-                <li><a href="content2.md">Additional Content</a></li>
+                <li><a href="content.md">Additional Content</a></li>
             </ul>
         </nav>
     </header>
@@ -26,7 +26,7 @@
         <h1>Additional Content</h1>
         <nav>
             <ul>
-                <li><a href="content2.md">Back to Home</a></li>
+                <li><a href="content.md">Back to Home</a></li>
             </ul>
         </nav>
     </header>
