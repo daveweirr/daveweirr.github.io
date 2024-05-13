@@ -25,4 +25,4 @@
 </body>
 </html>
 
-<img src="path/to/your/image.jpg" alt="Description of the image">
+<img src="Art Piece Small 2.jpeg" alt="Description of the image">
