@@ -25,4 +25,4 @@
 </body>
 </html>
 
-<img src="Art Piece Small 2.jpeg" alt="[Description of the image](https://github.com/daveweirr/daveweirr.github.io/blob/1932ecc99c8fdb0685f05cf1933d08f5ee96089a/Art%20Piece%20Small%202.jpeg)">
+<img src="Art Piece Small 2.jpeg" alt="(https://github.com/daveweirr/daveweirr.github.io/blob/1932ecc99c8fdb0685f05cf1933d08f5ee96089a/Art%20Piece%20Small%202.jpeg)">
