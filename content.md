@@ -24,3 +24,5 @@
     </footer>
 </body>
 </html>
+
+<img src="Art Piece Small 2.jpeg" alt="Description of the image">
